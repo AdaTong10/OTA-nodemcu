@@ -1,2 +1,3 @@
 # OTA-nodemcu
-Sistem IoT berbasis ESP8266 (NodeMCU) yang menggunakan sensor BMP280 untuk memantau suhu, tekanan udara, dan ketinggian, serta mendukung fitur OTA (Over-the-Air Update) sehingga firmware dapat diperbarui tanpa perlu koneksi kabel USB.
+Memonitor suhu dan kelembapan kini makin mudah!
+Menggunakan NodeMCU ESP8266 dan sensor DHT11 untuk menampilkan data secara real-time melalui web server lokal.
